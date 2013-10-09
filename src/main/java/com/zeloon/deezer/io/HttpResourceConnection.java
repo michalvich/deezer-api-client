@@ -28,7 +28,7 @@ import java.io.InputStreamReader;
 
 public class HttpResourceConnection implements ResourceConnection {
 
-    private Boolean useProxy;
+    private boolean useProxy;
 
     private String proxyHost;
 
