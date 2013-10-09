@@ -5,10 +5,18 @@ Java wrapper for deezer api - http://developers.deezer.com/api/
 
 ```java
 
-// get Daft Punk
 final DeezerClient deezerClient = new DeezerClient(new HttpResourceConnection());
-final Artist artist = deezerClient.get(new ArtistId(27L));
-System.out.println(artist.getName());
+
+final ArtistId daftPunkArtistId = new ArtistId(27L);
+
+// get Daft Punk
+final Artist artist = deezerClient.get(daftPunkArtistId);
+
+// get Daft Punk albums
+final Albums daftPunkAlbums = deezerClient.getAlbums(daftPunkArtistId);
+
+// get Daft Punk fans
+final Fans daftPunkFans = deezerClient.getFans(daftPunkArtistId);
 
 ```
 
