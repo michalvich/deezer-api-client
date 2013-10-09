@@ -1,0 +1,907 @@
+{
+    "data": [
+        {
+            "id": "160504851",
+            "title": "- SKI -",
+            "duration": 2816,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 11,
+            "link": "http://www.deezer.com/playlist/160504851",
+            "picture": "https://api.deezer.com/playlist/160504851/image",
+            "checksum": "6ef70949c1111e0ecfade99ecb688dbb",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "252588531",
+            "title": "---- A découvrir",
+            "duration": 2326,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 10,
+            "link": "http://www.deezer.com/playlist/252588531",
+            "picture": "https://api.deezer.com/playlist/252588531/image",
+            "checksum": "48b8c11f87a694baf577dc57a9c769e3",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "105641411",
+            "title": "---- Marion",
+            "duration": 2863,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 10,
+            "link": "http://www.deezer.com/playlist/105641411",
+            "picture": "https://api.deezer.com/playlist/105641411/image",
+            "checksum": "c416eb913334eacd6934b86837a07cca",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "68987394",
+            "title": "★★",
+            "duration": 744,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 4,
+            "link": "http://www.deezer.com/playlist/68987394",
+            "picture": "https://api.deezer.com/playlist/68987394/image",
+            "checksum": "b594bad867ec2e0dec875d1385ce543a",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "93235471",
+            "title": "★★★",
+            "duration": 410,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 2,
+            "link": "http://www.deezer.com/playlist/93235471",
+            "picture": "https://api.deezer.com/playlist/93235471/image",
+            "checksum": "05005403d0538d44ab1e40497c725577",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "45683464",
+            "title": "00 - Soirée",
+            "duration": 6433,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 5,
+            "nb_tracks": 26,
+            "link": "http://www.deezer.com/playlist/45683464",
+            "picture": "https://api.deezer.com/playlist/45683464/image",
+            "checksum": "b2ca329483542ba6c874d52cf747b8ce",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "57652430",
+            "title": "000-  WORK",
+            "duration": 1219,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 6,
+            "link": "http://www.deezer.com/playlist/57652430",
+            "picture": "https://api.deezer.com/playlist/57652430/image",
+            "checksum": "5909d514c18007db010c1eef94f9974e",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "58286310",
+            "title": "0000  - MIX",
+            "duration": 1807,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 3,
+            "nb_tracks": 6,
+            "link": "http://www.deezer.com/playlist/58286310",
+            "picture": "https://api.deezer.com/playlist/58286310/image",
+            "checksum": "fd7f72969963bdacca42ed1a324b1be1",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "29070708",
+            "title": "01 - From radio",
+            "duration": 3949,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 19,
+            "link": "http://www.deezer.com/playlist/29070708",
+            "picture": "https://api.deezer.com/playlist/29070708/image",
+            "checksum": "200247abcd4ed57d0804e5a1cd3e532f",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "52354392",
+            "title": "01 - Radio Deezer",
+            "duration": 8173,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 40,
+            "link": "http://www.deezer.com/playlist/52354392",
+            "picture": "https://api.deezer.com/playlist/52354392/image",
+            "checksum": "fa2b53ae7adf4821c919159e36c7cd8e",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "757807",
+            "title": "a decouvrir",
+            "duration": 636,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 5,
+            "nb_tracks": 3,
+            "link": "http://www.deezer.com/playlist/757807",
+            "picture": "https://api.deezer.com/playlist/757807/image",
+            "checksum": "77fefec04ee16c64212528341a0d3147",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "60934426",
+            "title": "A decouvrir!",
+            "duration": 220,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 1,
+            "link": "http://www.deezer.com/playlist/60934426",
+            "picture": "https://api.deezer.com/playlist/60934426/image",
+            "checksum": "64e43b870ec23fabdc168be4190ee40f",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "7068135",
+            "title": "A ecouter",
+            "duration": 592,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 5,
+            "nb_tracks": 2,
+            "link": "http://www.deezer.com/playlist/7068135",
+            "picture": "https://api.deezer.com/playlist/7068135/image",
+            "checksum": "ac96d988a7e1e8b9c0d8c6ec0fd2f085",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "38559351",
+            "title": "All Good",
+            "duration": 12998,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 58,
+            "link": "http://www.deezer.com/playlist/38559351",
+            "picture": "https://api.deezer.com/playlist/38559351/image",
+            "checksum": "2832a680822e6e85ebde29d2af0cb2c9",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "51724984",
+            "title": "All Good - 2",
+            "duration": 1587,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 4,
+            "nb_tracks": 8,
+            "link": "http://www.deezer.com/playlist/51724984",
+            "picture": "https://api.deezer.com/playlist/51724984/image",
+            "checksum": "4a390a9327b4733982be3076ca791886",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "4341978",
+            "title": "Archive",
+            "duration": 15430,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": true,
+            "rating": 5,
+            "nb_tracks": 61,
+            "link": "http://www.deezer.com/playlist/4341978",
+            "picture": "https://api.deezer.com/playlist/4341978/image",
+            "checksum": "a1f56da062c72e7a10d452f6adcf0092",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "30595446",
+            "title": "Best Playlist EVER !!",
+            "duration": 38564,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 162,
+            "link": "http://www.deezer.com/playlist/30595446",
+            "picture": "https://api.deezer.com/playlist/30595446/image",
+            "checksum": "ed4c9984be3db94020b25f6c34cb2213",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "33136192",
+            "title": "BOULOT",
+            "duration": 335,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 2,
+            "link": "http://www.deezer.com/playlist/33136192",
+            "picture": "https://api.deezer.com/playlist/33136192/image",
+            "checksum": "f83467e739cdcc7b623bcc35f2b7925e",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "55027024",
+            "title": "Commit Suicide when you Listen To",
+            "duration": 2639,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 9,
+            "link": "http://www.deezer.com/playlist/55027024",
+            "picture": "https://api.deezer.com/playlist/55027024/image",
+            "checksum": "aa8497aa7483eaf65e0b5e70470fafbb",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "374755225",
+            "title": "DaftPunk-RAM",
+            "duration": 0,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 13,
+            "link": "http://www.deezer.com/playlist/374755225",
+            "picture": "https://api.deezer.com/playlist/374755225/image",
+            "checksum": "9d9e70f1341dc4f78b0ebacbc00050e8",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "4668101",
+            "title": "DECOUVERTE",
+            "duration": 12454,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 5,
+            "nb_tracks": 50,
+            "link": "http://www.deezer.com/playlist/4668101",
+            "picture": "https://api.deezer.com/playlist/4668101/image",
+            "checksum": "4997ab56224e7295afec7816da4b9542",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "66984415",
+            "title": "DeezUp - Saturday night Christmasss !!!",
+            "duration": 30946,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 137,
+            "link": "http://www.deezer.com/playlist/66984415",
+            "picture": "https://api.deezer.com/playlist/66984415/image",
+            "checksum": "653c9f983fb432e1ca8f6eaf2979264f",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "2896937",
+            "title": "Detentesss",
+            "duration": 4061,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 4,
+            "nb_tracks": 17,
+            "link": "http://www.deezer.com/playlist/2896937",
+            "picture": "https://api.deezer.com/playlist/2896937/image",
+            "checksum": "0f664c3465c962a2ee8a8564596e13fc",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "50796411",
+            "title": "Douche",
+            "duration": 2744,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 13,
+            "link": "http://www.deezer.com/playlist/50796411",
+            "picture": "https://api.deezer.com/playlist/50796411/image",
+            "checksum": "b6a7c41cea345a5afb18769e953076d8",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "34775512",
+            "title": "Dr House",
+            "duration": 1969,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 7,
+            "link": "http://www.deezer.com/playlist/34775512",
+            "picture": "https://api.deezer.com/playlist/34775512/image",
+            "checksum": "ef58edcd394e03b0f11a49290cf8f3a4",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "64357022",
+            "title": "Drive (BO) &co",
+            "duration": 1561,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 6,
+            "link": "http://www.deezer.com/playlist/64357022",
+            "picture": "https://api.deezer.com/playlist/64357022/image",
+            "checksum": "f1d51fa40ea60f127e25f07804e3f51d",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "88756511",
+            "title": "EDITO",
+            "duration": 540,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 2,
+            "link": "http://www.deezer.com/playlist/88756511",
+            "picture": "https://api.deezer.com/playlist/88756511/image",
+            "checksum": "8a199bb039d89394eac8b012d110acca",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "77211471",
+            "title": "edito",
+            "duration": 1438,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 6,
+            "link": "http://www.deezer.com/playlist/77211471",
+            "picture": "https://api.deezer.com/playlist/77211471/image",
+            "checksum": "30fec65bc693e7668499123103e686a3",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "3016655",
+            "title": "Electro",
+            "duration": 20098,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 4,
+            "nb_tracks": 70,
+            "link": "http://www.deezer.com/playlist/3016655",
+            "picture": "https://api.deezer.com/playlist/3016655/image",
+            "checksum": "7cb5a2ea7bb275eb012e4a65e62fb535",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "4444417",
+            "title": "electro cool",
+            "duration": 1598,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 3,
+            "nb_tracks": 6,
+            "link": "http://www.deezer.com/playlist/4444417",
+            "picture": "https://api.deezer.com/playlist/4444417/image",
+            "checksum": "04be5365f684093ea7d88472527c8ad8",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "7620623",
+            "title": "Electro yeahh",
+            "duration": 522,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 4,
+            "nb_tracks": 7,
+            "link": "http://www.deezer.com/playlist/7620623",
+            "picture": "https://api.deezer.com/playlist/7620623/image",
+            "checksum": "034fd2ca63ae095cd57b846ec53d68aa",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "4632596",
+            "title": "ELECTROOOO",
+            "duration": 532,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 14,
+            "link": "http://www.deezer.com/playlist/4632596",
+            "picture": "https://api.deezer.com/playlist/4632596/image",
+            "checksum": "dabebbb92a0d9d858e9efacd05dc0c75",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "42905633",
+            "title": "Eletro from radio deezer",
+            "duration": 9122,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 36,
+            "link": "http://www.deezer.com/playlist/42905633",
+            "picture": "https://api.deezer.com/playlist/42905633/image",
+            "checksum": "b23042d532de9a5ff91f938284293b24",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "68188921",
+            "title": "En vrac",
+            "duration": 691,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 3,
+            "link": "http://www.deezer.com/playlist/68188921",
+            "picture": "https://api.deezer.com/playlist/68188921/image",
+            "checksum": "0f7fd1f7028e2eaf4cbf76e495a8adcd",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "516056593",
+            "title": "EQuala Favorites",
+            "duration": 278,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 1,
+            "link": "http://www.deezer.com/playlist/516056593",
+            "picture": "https://api.deezer.com/playlist/516056593/image",
+            "checksum": "e6bc693841df136206c419ef44057738",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "515878533",
+            "title": "EQuala Favorites",
+            "duration": 0,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 0,
+            "link": "http://www.deezer.com/playlist/515878533",
+            "picture": "https://api.deezer.com/playlist/515878533/image",
+            "checksum": "3d5a30deabdaf8a3eefdab304e88b038",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "38060979",
+            "title": "From OuiLoveDEEZER",
+            "duration": 1348,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 6,
+            "link": "http://www.deezer.com/playlist/38060979",
+            "picture": "https://api.deezer.com/playlist/38060979/image",
+            "checksum": "e63100cee74d795148e83409e24b7194",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "306001191",
+            "title": "Hotmixradio Funky www.hotmixradio.fr/funky",
+            "duration": 288,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 1,
+            "link": "http://www.deezer.com/playlist/306001191",
+            "picture": "https://api.deezer.com/playlist/306001191/image",
+            "checksum": "d1e83e6e75e7de1d88939c7a624d68ef",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "69259883",
+            "title": "LaPlaylistProjetX",
+            "duration": 11796,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 4,
+            "nb_tracks": 47,
+            "link": "http://www.deezer.com/playlist/69259883",
+            "picture": "https://api.deezer.com/playlist/69259883/image",
+            "checksum": "9b1a090b77a5de7c2bcd29c487a76451",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "181961911",
+            "title": "Loved tracks",
+            "duration": 9100,
+            "public": true,
+            "is_loved_track": true,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 34,
+            "link": "http://www.deezer.com/playlist/181961911",
+            "picture": "https://api.deezer.com/playlist/181961911/image",
+            "checksum": "438bf02d1222611d7a53df9ae85b7419",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "123066111",
+            "title": "ma nouvelle playlist",
+            "duration": 0,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 0,
+            "link": "http://www.deezer.com/playlist/123066111",
+            "picture": "https://api.deezer.com/playlist/123066111/image",
+            "checksum": "fd3fc1204a1853a489c1d19147866b2b",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "281752401",
+            "title": "Ma playlist Beezik",
+            "duration": 10606,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 50,
+            "link": "http://www.deezer.com/playlist/281752401",
+            "picture": "https://api.deezer.com/playlist/281752401/image",
+            "checksum": "06c8180fbb2e217d53624cec4da92b1a",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "80239361",
+            "title": "Mai 2012 - pub",
+            "duration": 288,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 1,
+            "link": "http://www.deezer.com/playlist/80239361",
+            "picture": "https://api.deezer.com/playlist/80239361/image",
+            "checksum": "12cce91c9b763e4b300ec252642dc814",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "68522391",
+            "title": "Mars 2012",
+            "duration": 262,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 1,
+            "link": "http://www.deezer.com/playlist/68522391",
+            "picture": "https://api.deezer.com/playlist/68522391/image",
+            "checksum": "81a7fe1bd6f87e87a073508b9ff298b2",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "4669750",
+            "title": "Massive Attack",
+            "duration": 1362,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 4,
+            "link": "http://www.deezer.com/playlist/4669750",
+            "picture": "https://api.deezer.com/playlist/4669750/image",
+            "checksum": "a93c8d4233323261465d88b66d41420a",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "553174415",
+            "title": "MON DOSSIER DRIVE",
+            "duration": 234,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 1,
+            "link": "http://www.deezer.com/playlist/553174415",
+            "picture": "https://api.deezer.com/playlist/553174415/image",
+            "checksum": "444d54bd8d1b5a4bf1fc9f4933022f05",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "26680384",
+            "title": "Muse",
+            "duration": 3916,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 15,
+            "link": "http://www.deezer.com/playlist/26680384",
+            "picture": "https://api.deezer.com/playlist/26680384/image",
+            "checksum": "f8251584a156631052c1fdf61dce1c45",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "34503492",
+            "title": "Muse Concert Bercy 17-11-2009",
+            "duration": 5602,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 18,
+            "link": "http://www.deezer.com/playlist/34503492",
+            "picture": "https://api.deezer.com/playlist/34503492/image",
+            "checksum": "121b6fdfd4535ad6b2dd3df93b45f51f",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "34652457",
+            "title": "Muse unknown",
+            "duration": 2507,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 12,
+            "link": "http://www.deezer.com/playlist/34652457",
+            "picture": "https://api.deezer.com/playlist/34652457/image",
+            "checksum": "1f25aa71b6f6e2f3a62b2e4a6091313c",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        },
+        {
+            "id": "68001201",
+            "title": "My music 17-23-25 14-02-2012",
+            "duration": 24566,
+            "public": true,
+            "is_loved_track": false,
+            "collaborative": false,
+            "rating": 0,
+            "nb_tracks": 103,
+            "link": "http://www.deezer.com/playlist/68001201",
+            "picture": "https://api.deezer.com/playlist/68001201/image",
+            "checksum": "b6cd8e327eb520f58932c301771e8ca3",
+            "creator": {
+                "id": "2529",
+                "name": "dadbond"
+            },
+            "type": "playlist"
+        }
+    ],
+    "checksum": "b9a94a64741ac29e71feb10ea517bd2230b347a31f64d4b95745710c30ffe366",
+    "total": 96,
+    "next": "https://api.deezer.com/user/2529/playlists?index=50"
+}

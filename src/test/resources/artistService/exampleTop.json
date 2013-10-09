@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "id": "66609426",
+            "readable": true,
+            "title": "Get Lucky",
+            "link": "http://www.deezer.com/track/66609426",
+            "duration": "248",
+            "rank": "997720",
+            "preview": "http://cdn-preview-e.deezer.com/stream/e6ef23e153ece7b082656c431274dfdb-1.mp3",
+            "artist": {
+                "id": "27",
+                "name": "Daft Punk"
+            },
+            "album": {
+                "id": "6516139",
+                "title": "Get Lucky",
+                "cover": "https://api.deezer.com/album/6516139/image"
+            },
+            "type": "track"
+        },
+        {
+            "id": "67238735",
+            "readable": true,
+            "title": "Get Lucky",
+            "link": "http://www.deezer.com/track/67238735",
+            "duration": "367",
+            "rank": "978686",
+            "preview": "http://cdn-preview-7.deezer.com/stream/783280be6a0859be3f7050408050242e-1.mp3",
+            "artist": {
+                "id": "27",
+                "name": "Daft Punk"
+            },
+            "album": {
+                "id": "6575789",
+                "title": "Random Access Memories",
+                "cover": "https://api.deezer.com/album/6575789/image"
+            },
+            "type": "track"
+        },
+        {
+            "id": "67238733",
+            "readable": true,
+            "title": "Lose Yourself to Dance",
+            "link": "http://www.deezer.com/track/67238733",
+            "duration": "353",
+            "rank": "974108",
+            "preview": "http://cdn-preview-e.deezer.com/stream/ea91cf77f4cd12ddf499465a8f94c272-5.mp3",
+            "artist": {
+                "id": "27",
+                "name": "Daft Punk"
+            },
+            "album": {
+                "id": "6575789",
+                "title": "Random Access Memories",
+                "cover": "https://api.deezer.com/album/6575789/image"
+            },
+            "type": "track"
+        },
+        {
+            "id": "67238732",
+            "readable": true,
+            "title": "Instant Crush",
+            "link": "http://www.deezer.com/track/67238732",
+            "duration": "337",
+            "rank": "953403",
+            "preview": "http://cdn-preview-0.deezer.com/stream/0f766b2312d338fd1295df91c869c4e5-5.mp3",
+            "artist": {
+                "id": "27",
+                "name": "Daft Punk"
+            },
+            "album": {
+                "id": "6575789",
+                "title": "Random Access Memories",
+                "cover": "https://api.deezer.com/album/6575789/image"
+            },
+            "type": "track"
+        },
+        {
+            "id": "67238728",
+            "readable": true,
+            "title": "Give Life Back to Music",
+            "link": "http://www.deezer.com/track/67238728",
+            "duration": "274",
+            "rank": "948140",
+            "preview": "http://cdn-preview-5.deezer.com/stream/5ee6a64ea769922abeea0549a5c91cbc-5.mp3",
+            "artist": {
+                "id": "27",
+                "name": "Daft Punk"
+            },
+            "album": {
+                "id": "6575789",
+                "title": "Random Access Memories",
+                "cover": "https://api.deezer.com/album/6575789/image"
+            },
+            "type": "track"
+        }
+    ],
+    "total": 5
+}

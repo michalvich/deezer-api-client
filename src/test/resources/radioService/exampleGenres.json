@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "id": "15475",
+            "title": "General",
+            "radios": [
+                {
+                    "id": "1236",
+                    "title": "Dancefloor",
+                    "picture": "https://api.deezer.com/radio/1236/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "1235",
+                    "title": "Rock",
+                    "picture": "https://api.deezer.com/radio/1235/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "1234",
+                    "title": "Alternative",
+                    "picture": "https://api.deezer.com/radio/1234/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "475",
+                    "title": " Metal",
+                    "picture": "https://api.deezer.com/radio/475/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "474",
+                    "title": "Hip Hop",
+                    "picture": "https://api.deezer.com/radio/474/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "473",
+                    "title": "R&B",
+                    "picture": "https://api.deezer.com/radio/473/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "1221",
+                    "title": "Pop",
+                    "picture": "https://api.deezer.com/radio/1221/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "1237",
+                    "title": "Electronic",
+                    "picture": "https://api.deezer.com/radio/1237/image",
+                    "type": "radio"
+                }
+            ]
+        },
+        {
+            "id": "572",
+            "title": "Pop",
+            "radios": [
+                {
+                    "id": "1221",
+                    "title": "Pop",
+                    "picture": "https://api.deezer.com/radio/1221/image",
+                    "type": "radio"
+                }
+            ]
+        },
+        {
+            "id": "573",
+            "title": "Indie/Alternative",
+            "radios": [
+                {
+                    "id": "1234",
+                    "title": "Alternative",
+                    "picture": "https://api.deezer.com/radio/1234/image",
+                    "type": "radio"
+                }
+            ]
+        },
+        {
+            "id": "574",
+            "title": "Rock",
+            "radios": [
+                {
+                    "id": "1235",
+                    "title": "Rock",
+                    "picture": "https://api.deezer.com/radio/1235/image",
+                    "type": "radio"
+                }
+            ]
+        },
+        {
+            "id": "575",
+            "title": "Dance/Electro",
+            "radios": [
+                {
+                    "id": "1236",
+                    "title": "Dancefloor",
+                    "picture": "https://api.deezer.com/radio/1236/image",
+                    "type": "radio"
+                },
+                {
+                    "id": "1237",
+                    "title": "Electronic",
+                    "picture": "https://api.deezer.com/radio/1237/image",
+                    "type": "radio"
+                }
+            ]
+        },
+        {
+            "id": "576",
+            "title": "R&B/Soul",
+            "radios": [
+                {
+                    "id": "473",
+                    "title": "R&B",
+                    "picture": "https://api.deezer.com/radio/473/image",
+                    "type": "radio"
+                }
+            ]
+        },
+        {
+            "id": "578",
+            "title": "Hip Hop",
+            "radios": [
+                {
+                    "id": "474",
+                    "title": "Hip Hop",
+                    "picture": "https://api.deezer.com/radio/474/image",
+                    "type": "radio"
+                }
+            ]
+        }
+    ]
+}

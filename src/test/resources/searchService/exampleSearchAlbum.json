@@ -1,0 +1,756 @@
+{
+    "data": [
+        {
+            "id": "119606",
+            "title": "Curtain Call",
+            "link": "http://www.deezer.com/album/119606",
+            "cover": "https://api.deezer.com/album/119606/image",
+            "genre_id": 578,
+            "nb_tracks": 17,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "227447",
+            "title": "Encore",
+            "link": "http://www.deezer.com/album/227447",
+            "cover": "https://api.deezer.com/album/227447/image",
+            "genre_id": 578,
+            "nb_tracks": 20,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "103248",
+            "title": "The Eminem Show",
+            "link": "http://www.deezer.com/album/103248",
+            "cover": "https://api.deezer.com/album/103248/image",
+            "genre_id": 578,
+            "nb_tracks": 20,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "126051",
+            "title": "The Slim Shady LP",
+            "link": "http://www.deezer.com/album/126051",
+            "cover": "https://api.deezer.com/album/126051/image",
+            "genre_id": 578,
+            "nb_tracks": 20,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "125748",
+            "title": "The Marshall Mathers LP",
+            "link": "http://www.deezer.com/album/125748",
+            "cover": "https://api.deezer.com/album/125748/image",
+            "genre_id": 578,
+            "nb_tracks": 18,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "595243",
+            "title": "Recovery",
+            "link": "http://www.deezer.com/album/595243",
+            "cover": "https://api.deezer.com/album/595243/image",
+            "genre_id": 578,
+            "nb_tracks": 17,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "464090",
+            "title": "Relapse: Refill",
+            "link": "http://www.deezer.com/album/464090",
+            "cover": "https://api.deezer.com/album/464090/image",
+            "genre_id": 578,
+            "nb_tracks": 29,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "350198",
+            "title": "Relapse",
+            "link": "http://www.deezer.com/album/350198",
+            "cover": "https://api.deezer.com/album/350198/image",
+            "genre_id": 578,
+            "nb_tracks": 20,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "247211",
+            "title": "The Marshall Mathers LP - Tour Edition",
+            "link": "http://www.deezer.com/album/247211",
+            "cover": "https://api.deezer.com/album/247211/image",
+            "genre_id": 578,
+            "nb_tracks": 23,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "161173",
+            "title": "Eminem Presents The Re-Up",
+            "link": "http://www.deezer.com/album/161173",
+            "cover": "https://api.deezer.com/album/161173/image",
+            "genre_id": 578,
+            "nb_tracks": 22,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6886481",
+            "title": "Berzerk",
+            "link": "http://www.deezer.com/album/6886481",
+            "cover": "https://api.deezer.com/album/6886481/image",
+            "genre_id": 578,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "245668",
+            "title": "Sing For The Moment",
+            "link": "http://www.deezer.com/album/245668",
+            "cover": "https://api.deezer.com/album/245668/image",
+            "genre_id": 572,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "231995",
+            "title": "Just Lose It",
+            "link": "http://www.deezer.com/album/231995",
+            "cover": "https://api.deezer.com/album/231995/image",
+            "genre_id": 578,
+            "nb_tracks": 3,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "271960",
+            "title": "Crack A Bottle",
+            "link": "http://www.deezer.com/album/271960",
+            "cover": "https://api.deezer.com/album/271960/image",
+            "genre_id": 578,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "4792968",
+                "name": "Eminem,Dr. Dre,50 Cent",
+                "link": "http://www.deezer.com/artist/4792968",
+                "picture": "https://api.deezer.com/artist/4792968/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "217761",
+            "title": "Ass Like That",
+            "link": "http://www.deezer.com/album/217761",
+            "cover": "https://api.deezer.com/album/217761/image",
+            "genre_id": 578,
+            "nb_tracks": 3,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "213364",
+            "title": "Without Me",
+            "link": "http://www.deezer.com/album/213364",
+            "cover": "https://api.deezer.com/album/213364/image",
+            "genre_id": 572,
+            "nb_tracks": 4,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "296714",
+            "title": "We Made You",
+            "link": "http://www.deezer.com/album/296714",
+            "cover": "https://api.deezer.com/album/296714/image",
+            "genre_id": 578,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "550194",
+            "title": "Not Afraid",
+            "link": "http://www.deezer.com/album/550194",
+            "cover": "https://api.deezer.com/album/550194/image",
+            "genre_id": 578,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "240360",
+            "title": "Mockingbird",
+            "link": "http://www.deezer.com/album/240360",
+            "cover": "https://api.deezer.com/album/240360/image",
+            "genre_id": 578,
+            "nb_tracks": 3,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "239481",
+            "title": "Lose Yourself",
+            "link": "http://www.deezer.com/album/239481",
+            "cover": "https://api.deezer.com/album/239481/image",
+            "genre_id": 572,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "610234",
+            "title": "Recovery Bonus Tracks",
+            "link": "http://www.deezer.com/album/610234",
+            "cover": "https://api.deezer.com/album/610234/image",
+            "genre_id": 578,
+            "nb_tracks": 3,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "253727",
+            "title": "When I'm Gone",
+            "link": "http://www.deezer.com/album/253727",
+            "cover": "https://api.deezer.com/album/253727/image",
+            "genre_id": 578,
+            "nb_tracks": 3,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "224774",
+            "title": "Cradle 2 The Grave",
+            "link": "http://www.deezer.com/album/224774",
+            "cover": "https://api.deezer.com/album/224774/image",
+            "genre_id": 578,
+            "nb_tracks": 19,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6955803",
+            "title": "Hip-Hop",
+            "link": "http://www.deezer.com/album/6955803",
+            "cover": "https://api.deezer.com/album/6955803/image",
+            "genre_id": 578,
+            "nb_tracks": 18,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6955809",
+            "title": "Rap",
+            "link": "http://www.deezer.com/album/6955809",
+            "cover": "https://api.deezer.com/album/6955809/image",
+            "genre_id": 578,
+            "nb_tracks": 18,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "245597",
+            "title": "Shake That",
+            "link": "http://www.deezer.com/album/245597",
+            "cover": "https://api.deezer.com/album/245597/image",
+            "genre_id": 578,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "223630",
+            "title": "Cleanin' Out My Closet",
+            "link": "http://www.deezer.com/album/223630",
+            "cover": "https://api.deezer.com/album/223630/image",
+            "genre_id": 572,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "382952",
+            "title": "Beautiful",
+            "link": "http://www.deezer.com/album/382952",
+            "cover": "https://api.deezer.com/album/382952/image",
+            "genre_id": 578,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6909001",
+            "title": "Party Time",
+            "link": "http://www.deezer.com/album/6909001",
+            "cover": "https://api.deezer.com/album/6909001/image",
+            "genre_id": 575,
+            "nb_tracks": 24,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6829220",
+            "title": "Hollywood Homicide",
+            "link": "http://www.deezer.com/album/6829220",
+            "cover": "https://api.deezer.com/album/6829220/image",
+            "genre_id": 578,
+            "nb_tracks": 24,
+            "artist": {
+                "id": "94624",
+                "name": "DJ Whoo Kid",
+                "link": "http://www.deezer.com/artist/94624",
+                "picture": "https://api.deezer.com/artist/94624/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "239833",
+            "title": "Like Toy Soldiers",
+            "link": "http://www.deezer.com/album/239833",
+            "cover": "https://api.deezer.com/album/239833/image",
+            "genre_id": 578,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "702145",
+            "title": "Oyun Senin",
+            "link": "http://www.deezer.com/album/702145",
+            "cover": "https://api.deezer.com/album/702145/image",
+            "genre_id": 580,
+            "nb_tracks": 11,
+            "artist": {
+                "id": "13",
+                "name": "Eminem",
+                "link": "http://www.deezer.com/artist/13",
+                "picture": "https://api.deezer.com/artist/13/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6204882",
+            "title": "I Love Rap",
+            "link": "http://www.deezer.com/album/6204882",
+            "cover": "https://api.deezer.com/album/6204882/image",
+            "genre_id": 0,
+            "nb_tracks": 20,
+            "artist": {
+                "id": "797",
+                "name": "Cut Killer",
+                "link": "http://www.deezer.com/artist/797",
+                "picture": "https://api.deezer.com/artist/797/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "171660",
+            "title": "A Tribute To Eminem",
+            "link": "http://www.deezer.com/album/171660",
+            "cover": "https://api.deezer.com/album/171660/image",
+            "genre_id": 578,
+            "nb_tracks": 13,
+            "artist": {
+                "id": "114452",
+                "name": "Various Artists - Eminem Tribute",
+                "link": "http://www.deezer.com/artist/114452",
+                "picture": "https://api.deezer.com/artist/114452/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6900292",
+            "title": "Survival - Tribute to Eminem",
+            "link": "http://www.deezer.com/album/6900292",
+            "cover": "https://api.deezer.com/album/6900292/image",
+            "genre_id": 573,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "4553180",
+                "name": "Music Waves",
+                "link": "http://www.deezer.com/artist/4553180",
+                "picture": "https://api.deezer.com/artist/4553180/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6900290",
+            "title": "Survival - Tribute to Eminem",
+            "link": "http://www.deezer.com/album/6900290",
+            "cover": "https://api.deezer.com/album/6900290/image",
+            "genre_id": 573,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "306311",
+                "name": "Survival",
+                "link": "http://www.deezer.com/artist/306311",
+                "picture": "https://api.deezer.com/artist/306311/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6980525",
+            "title": "Berzerk (In the Style of Eminem) [Karaoke Instrumental Version] - Single",
+            "link": "http://www.deezer.com/album/6980525",
+            "cover": "https://api.deezer.com/album/6980525/image",
+            "genre_id": 578,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "1382150",
+                "name": "Karaoke All Hits",
+                "link": "http://www.deezer.com/artist/1382150",
+                "picture": "https://api.deezer.com/artist/1382150/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "645797",
+            "title": "Love The Way You Lie (Eminem & Rihanna Tribute)",
+            "link": "http://www.deezer.com/album/645797",
+            "cover": "https://api.deezer.com/album/645797/image",
+            "genre_id": 572,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "499023",
+                "name": "Popstarz",
+                "link": "http://www.deezer.com/artist/499023",
+                "picture": "https://api.deezer.com/artist/499023/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6979597",
+            "title": "Berzerk - Tribute to Eminem",
+            "link": "http://www.deezer.com/album/6979597",
+            "cover": "https://api.deezer.com/album/6979597/image",
+            "genre_id": 573,
+            "nb_tracks": 2,
+            "artist": {
+                "id": "4553180",
+                "name": "Music Waves",
+                "link": "http://www.deezer.com/artist/4553180",
+                "picture": "https://api.deezer.com/artist/4553180/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "660124",
+            "title": "The Best of Eminem, Vol. 01",
+            "link": "http://www.deezer.com/album/660124",
+            "cover": "https://api.deezer.com/album/660124/image",
+            "genre_id": 578,
+            "nb_tracks": 17,
+            "artist": {
+                "id": "338076",
+                "name": "MIDIFine Systems",
+                "link": "http://www.deezer.com/artist/338076",
+                "picture": "https://api.deezer.com/artist/338076/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1134506",
+            "title": "I need a doctor",
+            "link": "http://www.deezer.com/album/1134506",
+            "cover": "https://api.deezer.com/album/1134506/image",
+            "genre_id": 580,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "1353250",
+                "name": "Eminem ft. - Dr. Dre Tribute Band",
+                "link": "http://www.deezer.com/artist/1353250",
+                "picture": "https://api.deezer.com/artist/1353250/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6385435",
+            "title": "G-Unit, Radio West 1",
+            "link": "http://www.deezer.com/album/6385435",
+            "cover": "https://api.deezer.com/album/6385435/image",
+            "genre_id": 578,
+            "nb_tracks": 17,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6894006",
+            "title": "Survival (From \"Call of Duty Ghosts\") (Originally Performed by Eminem) (Karaoke Version)",
+            "link": "http://www.deezer.com/album/6894006",
+            "cover": "https://api.deezer.com/album/6894006/image",
+            "genre_id": 584,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "5132202",
+                "name": "Spin Spark",
+                "link": "http://www.deezer.com/artist/5132202",
+                "picture": "https://api.deezer.com/artist/5132202/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "5398911",
+            "title": "Ultimate Collaborations Feat. Snoop Doggy Dogg & Eminem",
+            "link": "http://www.deezer.com/album/5398911",
+            "cover": "https://api.deezer.com/album/5398911/image",
+            "genre_id": 578,
+            "nb_tracks": 17,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "619289",
+            "title": "Eminem - Love the Way You Lie feat. Rihanna (Karaoke) - Single",
+            "link": "http://www.deezer.com/album/619289",
+            "cover": "https://api.deezer.com/album/619289/image",
+            "genre_id": 578,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "377176",
+                "name": "Cover Guru",
+                "link": "http://www.deezer.com/artist/377176",
+                "picture": "https://api.deezer.com/artist/377176/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6895293",
+            "title": "Survival (From \"Call of Duty: Ghosts\") (A Tribute to Eminem)",
+            "link": "http://www.deezer.com/album/6895293",
+            "cover": "https://api.deezer.com/album/6895293/image",
+            "genre_id": 585,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "5132203",
+                "name": "Hitsmiths",
+                "link": "http://www.deezer.com/artist/5132203",
+                "picture": "https://api.deezer.com/artist/5132203/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6666950",
+            "title": "G-Unit: Radio West 1",
+            "link": "http://www.deezer.com/album/6666950",
+            "cover": "https://api.deezer.com/album/6666950/image",
+            "genre_id": 578,
+            "nb_tracks": 17,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "link": "http://www.deezer.com/artist/5080",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1656225",
+            "title": "Bottoms Up",
+            "link": "http://www.deezer.com/album/1656225",
+            "cover": "https://api.deezer.com/album/1656225/image",
+            "genre_id": 578,
+            "nb_tracks": 16,
+            "artist": {
+                "id": "397",
+                "name": "Obie Trice",
+                "link": "http://www.deezer.com/artist/397",
+                "picture": "https://api.deezer.com/artist/397/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "3559911",
+            "title": "Not Afraid - Single (Tribute to Eminem)",
+            "link": "http://www.deezer.com/album/3559911",
+            "cover": "https://api.deezer.com/album/3559911/image",
+            "genre_id": 572,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "1891041",
+                "name": "I'm Not Afraid",
+                "link": "http://www.deezer.com/artist/1891041",
+                "picture": "https://api.deezer.com/artist/1891041/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "6894010",
+            "title": "Survival (Originally Performed by Eminem) (Karaoke Version)",
+            "link": "http://www.deezer.com/album/6894010",
+            "cover": "https://api.deezer.com/album/6894010/image",
+            "genre_id": 584,
+            "nb_tracks": 1,
+            "artist": {
+                "id": "5079872",
+                "name": "Chart Trax",
+                "link": "http://www.deezer.com/artist/5079872",
+                "picture": "https://api.deezer.com/artist/5079872/image"
+            },
+            "type": "album"
+        }
+    ],
+    "total": 60,
+    "next": "https://api.deezer.com/search/album?q=eminem&index=50"
+}

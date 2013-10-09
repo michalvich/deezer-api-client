@@ -1,0 +1,772 @@
+{
+    "data": [
+        {
+            "id": "86511",
+            "title": "Californication (Audio Bundle w/ Bonus Tracks)",
+            "link": "http://www.deezer.com/album/86511",
+            "cover": "https://api.deezer.com/album/86511/image",
+            "nb_tracks": 18,
+            "release_date": "1999-06-07",
+            "available": true,
+            "artist": {
+                "id": "182",
+                "name": "Red Hot Chili Peppers",
+                "picture": "https://api.deezer.com/artist/182/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "94270",
+            "title": "Nothing But The Best [The Frank Sinatra Collection] (International Version)",
+            "link": "http://www.deezer.com/album/94270",
+            "cover": "https://api.deezer.com/album/94270/image",
+            "nb_tracks": 0,
+            "release_date": "2008-05-05",
+            "available": false,
+            "alternative": {
+                "id": "6987322",
+                "title": "Nothing But The Best",
+                "link": "http://www.deezer.com/album/6987322",
+                "cover": "https://api.deezer.com/album/6987322/image",
+                "nb_tracks": 22,
+                "release_date": "2013-10-01",
+                "available": true,
+                "artist": {
+                    "id": "617",
+                    "name": "Frank Sinatra",
+                    "picture": "https://api.deezer.com/artist/617/image"
+                },
+                "type": "album"
+            },
+            "artist": {
+                "id": "617",
+                "name": "Frank Sinatra",
+                "picture": "https://api.deezer.com/artist/617/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "119106",
+            "title": "Tri slova",
+            "link": "http://www.deezer.com/album/119106",
+            "cover": "https://api.deezer.com/album/119106/image",
+            "nb_tracks": 10,
+            "release_date": "2007-10-29",
+            "available": true,
+            "artist": {
+                "id": "78773",
+                "name": "Leos Mares",
+                "picture": "https://api.deezer.com/artist/78773/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "125467",
+            "title": "The Best Of Me",
+            "link": "http://www.deezer.com/album/125467",
+            "cover": "https://api.deezer.com/album/125467/image",
+            "nb_tracks": 16,
+            "release_date": "1999-11-15",
+            "available": true,
+            "artist": {
+                "id": "170",
+                "name": "Bryan Adams",
+                "picture": "https://api.deezer.com/artist/170/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "139286",
+            "title": "Život napsal sám",
+            "link": "http://www.deezer.com/album/139286",
+            "cover": "https://api.deezer.com/album/139286/image",
+            "nb_tracks": 18,
+            "release_date": "2008-01-01",
+            "available": true,
+            "artist": {
+                "id": "99641",
+                "name": "Jay Diesel",
+                "picture": "https://api.deezer.com/artist/99641/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "161936",
+            "title": "Live From Paris",
+            "link": "http://www.deezer.com/album/161936",
+            "cover": "https://api.deezer.com/album/161936/image",
+            "nb_tracks": 18,
+            "release_date": "2008-07-21",
+            "available": true,
+            "artist": {
+                "id": "163",
+                "name": "U2",
+                "picture": "https://api.deezer.com/artist/163/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "213339",
+            "title": "Made In The Shade",
+            "link": "http://www.deezer.com/album/213339",
+            "cover": "https://api.deezer.com/album/213339/image",
+            "nb_tracks": 10,
+            "release_date": "2008-09-01",
+            "available": true,
+            "artist": {
+                "id": "11",
+                "name": "The Rolling Stones",
+                "picture": "https://api.deezer.com/artist/11/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "234411",
+            "title": "V Hospode 16: Nejrozvernejsi Trampske Pisne",
+            "link": "http://www.deezer.com/album/234411",
+            "cover": "https://api.deezer.com/album/234411/image",
+            "nb_tracks": 17,
+            "release_date": "2005-01-01",
+            "available": true,
+            "artist": {
+                "id": "157739",
+                "name": "Various",
+                "picture": "https://api.deezer.com/artist/157739/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "299889",
+            "title": "Swing When You're Winning",
+            "link": "http://www.deezer.com/album/299889",
+            "cover": "https://api.deezer.com/album/299889/image",
+            "nb_tracks": 15,
+            "release_date": "2003-10-07",
+            "available": true,
+            "artist": {
+                "id": "212",
+                "name": "Robbie Williams",
+                "picture": "https://api.deezer.com/artist/212/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "300902",
+            "title": "Divokej Bill",
+            "link": "http://www.deezer.com/album/300902",
+            "cover": "https://api.deezer.com/album/300902/image",
+            "nb_tracks": 11,
+            "release_date": "2006-05-05",
+            "available": true,
+            "artist": {
+                "id": "11062",
+                "name": "Divokej Bill",
+                "picture": "https://api.deezer.com/artist/11062/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "305610",
+            "title": "Prusa se vraci",
+            "link": "http://www.deezer.com/album/305610",
+            "cover": "https://api.deezer.com/album/305610/image",
+            "nb_tracks": 25,
+            "release_date": "2007-09-17",
+            "available": true,
+            "artist": {
+                "id": "215146",
+                "name": "Tri Sestry",
+                "picture": "https://api.deezer.com/artist/215146/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "305612",
+            "title": "Soubor kretenu",
+            "link": "http://www.deezer.com/album/305612",
+            "cover": "https://api.deezer.com/album/305612/image",
+            "nb_tracks": 17,
+            "release_date": "2007-09-17",
+            "available": true,
+            "artist": {
+                "id": "215146",
+                "name": "Tri Sestry",
+                "picture": "https://api.deezer.com/artist/215146/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "305614",
+            "title": "Zlati hosi",
+            "link": "http://www.deezer.com/album/305614",
+            "cover": "https://api.deezer.com/album/305614/image",
+            "nb_tracks": 18,
+            "release_date": "2007-09-17",
+            "available": true,
+            "artist": {
+                "id": "215146",
+                "name": "Tri Sestry",
+                "picture": "https://api.deezer.com/artist/215146/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "305676",
+            "title": "Lihova Skola Umeni Aneb Valka S Loky",
+            "link": "http://www.deezer.com/album/305676",
+            "cover": "https://api.deezer.com/album/305676/image",
+            "nb_tracks": 19,
+            "release_date": "2006-05-05",
+            "available": true,
+            "artist": {
+                "id": "215146",
+                "name": "Tri Sestry",
+                "picture": "https://api.deezer.com/artist/215146/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "315862",
+            "title": "Mini Disco Show",
+            "link": "http://www.deezer.com/album/315862",
+            "cover": "https://api.deezer.com/album/315862/image",
+            "nb_tracks": 21,
+            "release_date": "2006-06-30",
+            "available": true,
+            "artist": {
+                "id": "241243",
+                "name": "Patrasova Dada",
+                "picture": "https://api.deezer.com/artist/241243/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "322936",
+            "title": "Lucerna Live",
+            "link": "http://www.deezer.com/album/322936",
+            "cover": "https://api.deezer.com/album/322936/image",
+            "nb_tracks": 17,
+            "release_date": "2006-01-13",
+            "available": true,
+            "artist": {
+                "id": "11062",
+                "name": "Divokej Bill",
+                "picture": "https://api.deezer.com/artist/11062/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "322937",
+            "title": "Mezi Nima",
+            "link": "http://www.deezer.com/album/322937",
+            "cover": "https://api.deezer.com/album/322937/image",
+            "nb_tracks": 11,
+            "release_date": "2006-01-15",
+            "available": true,
+            "artist": {
+                "id": "11062",
+                "name": "Divokej Bill",
+                "picture": "https://api.deezer.com/artist/11062/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "325610",
+            "title": "Best Of 2",
+            "link": "http://www.deezer.com/album/325610",
+            "cover": "https://api.deezer.com/album/325610/image",
+            "nb_tracks": 18,
+            "release_date": "2006-01-13",
+            "available": true,
+            "artist": {
+                "id": "77170",
+                "name": "Daniel Landa",
+                "picture": "https://api.deezer.com/artist/77170/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "329894",
+            "title": "Kvalitny material",
+            "link": "http://www.deezer.com/album/329894",
+            "cover": "https://api.deezer.com/album/329894/image",
+            "nb_tracks": 16,
+            "release_date": "2006-08-18",
+            "available": true,
+            "artist": {
+                "id": "244064",
+                "name": "H16",
+                "picture": "https://api.deezer.com/artist/244064/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "329944",
+            "title": "Cisla nepustia",
+            "link": "http://www.deezer.com/album/329944",
+            "cover": "https://api.deezer.com/album/329944/image",
+            "nb_tracks": 16,
+            "release_date": "2008-06-09",
+            "available": true,
+            "artist": {
+                "id": "244064",
+                "name": "H16",
+                "picture": "https://api.deezer.com/artist/244064/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "333615",
+            "title": "Bozk na rozlucku",
+            "link": "http://www.deezer.com/album/333615",
+            "cover": "https://api.deezer.com/album/333615/image",
+            "nb_tracks": 19,
+            "release_date": "2007-11-26",
+            "available": true,
+            "artist": {
+                "id": "244941",
+                "name": "Kontrafakt",
+                "picture": "https://api.deezer.com/artist/244941/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "485839",
+            "title": "Ella Fitzgerald With Friends",
+            "link": "http://www.deezer.com/album/485839",
+            "cover": "https://api.deezer.com/album/485839/image",
+            "nb_tracks": 24,
+            "release_date": "2009-11-10",
+            "available": true,
+            "artist": {
+                "id": "3280",
+                "name": "Ella Fitzgerald",
+                "picture": "https://api.deezer.com/artist/3280/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "507227",
+            "title": "1901-1971",
+            "link": "http://www.deezer.com/album/507227",
+            "cover": "https://api.deezer.com/album/507227/image",
+            "nb_tracks": 15,
+            "release_date": "2010-03-01",
+            "available": true,
+            "artist": {
+                "id": "2337",
+                "name": "Louis Armstrong",
+                "picture": "https://api.deezer.com/artist/2337/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "516384",
+            "title": "Talking Monkeys In Space",
+            "link": "http://www.deezer.com/album/516384",
+            "cover": "https://api.deezer.com/album/516384/image",
+            "nb_tracks": 29,
+            "release_date": "2010-03-29",
+            "available": true,
+            "artist": {
+                "id": "66864",
+                "name": "Joe Rogan",
+                "picture": "https://api.deezer.com/artist/66864/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "539364",
+            "title": "Knockout",
+            "link": "http://www.deezer.com/album/539364",
+            "cover": "https://api.deezer.com/album/539364/image",
+            "nb_tracks": 12,
+            "release_date": "2010-04-12",
+            "available": true,
+            "artist": {
+                "id": "384235",
+                "name": "Marpo",
+                "picture": "https://api.deezer.com/artist/384235/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "665000",
+            "title": "Neni na co cekat",
+            "link": "http://www.deezer.com/album/665000",
+            "cover": "https://api.deezer.com/album/665000/image",
+            "nb_tracks": 13,
+            "release_date": "2010-09-20",
+            "available": true,
+            "artist": {
+                "id": "11063",
+                "name": "Chinaski",
+                "picture": "https://api.deezer.com/artist/11063/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "676990",
+            "title": "Bon Jovi Greatest Hits - The Ultimate Collection",
+            "link": "http://www.deezer.com/album/676990",
+            "cover": "https://api.deezer.com/album/676990/image",
+            "nb_tracks": 30,
+            "release_date": "2012-06-25",
+            "available": true,
+            "artist": {
+                "id": "637",
+                "name": "Bon Jovi",
+                "picture": "https://api.deezer.com/artist/637/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "686126",
+            "title": "16 nej od taborovych ohnu",
+            "link": "http://www.deezer.com/album/686126",
+            "cover": "https://api.deezer.com/album/686126/image",
+            "nb_tracks": 16,
+            "release_date": "2008-05-26",
+            "available": true,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "711259",
+            "title": "In And Out Of Consciousness: Greatest Hits 1990 - 2010",
+            "link": "http://www.deezer.com/album/711259",
+            "cover": "https://api.deezer.com/album/711259/image",
+            "nb_tracks": 57,
+            "release_date": "2010-11-19",
+            "available": true,
+            "artist": {
+                "id": "212",
+                "name": "Robbie Williams",
+                "picture": "https://api.deezer.com/artist/212/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "746059",
+            "title": "21",
+            "link": "http://www.deezer.com/album/746059",
+            "cover": "https://api.deezer.com/album/746059/image",
+            "nb_tracks": 11,
+            "release_date": "2011-01-24",
+            "available": true,
+            "artist": {
+                "id": "75798",
+                "name": "Adele",
+                "picture": "https://api.deezer.com/artist/75798/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "993712",
+            "title": "Greatest Speeches of All Time Vol. 1",
+            "link": "http://www.deezer.com/album/993712",
+            "cover": "https://api.deezer.com/album/993712/image",
+            "nb_tracks": 13,
+            "release_date": "2008-10-28",
+            "available": true,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1027217",
+            "title": "V dobrej viere/Best Of",
+            "link": "http://www.deezer.com/album/1027217",
+            "cover": "https://api.deezer.com/album/1027217/image",
+            "nb_tracks": 19,
+            "release_date": "2011-05-06",
+            "available": true,
+            "artist": {
+                "id": "11061",
+                "name": "Horkýže Slíže",
+                "picture": "https://api.deezer.com/artist/11061/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1262050",
+            "title": "Nevermind",
+            "link": "http://www.deezer.com/album/1262050",
+            "cover": "https://api.deezer.com/album/1262050/image",
+            "nb_tracks": 43,
+            "release_date": "2011-09-26",
+            "available": true,
+            "artist": {
+                "id": "415",
+                "name": "Nirvana",
+                "picture": "https://api.deezer.com/artist/415/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1280341",
+            "title": "3000",
+            "link": "http://www.deezer.com/album/1280341",
+            "cover": "https://api.deezer.com/album/1280341/image",
+            "nb_tracks": 14,
+            "release_date": "2001-08-27",
+            "available": true,
+            "artist": {
+                "id": "129744",
+                "name": "Elan",
+                "picture": "https://api.deezer.com/artist/129744/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1361233",
+            "title": "Duety naBilo 2",
+            "link": "http://www.deezer.com/album/1361233",
+            "cover": "https://api.deezer.com/album/1361233/image",
+            "nb_tracks": 14,
+            "release_date": "2011-12-09",
+            "available": true,
+            "artist": {
+                "id": "211179",
+                "name": "Lucie Bílá",
+                "picture": "https://api.deezer.com/artist/211179/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1394581",
+            "title": "Fenomen",
+            "link": "http://www.deezer.com/album/1394581",
+            "cover": "https://api.deezer.com/album/1394581/image",
+            "nb_tracks": 11,
+            "release_date": "2012-01-02",
+            "available": true,
+            "artist": {
+                "id": "430501",
+                "name": "Rytmus",
+                "picture": "https://api.deezer.com/artist/430501/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395308",
+            "title": "Rozvíjej se, poupátko - Písničky z filmových pohádek",
+            "link": "http://www.deezer.com/album/1395308",
+            "cover": "https://api.deezer.com/album/1395308/image",
+            "nb_tracks": 20,
+            "release_date": "2011-07-12",
+            "available": true,
+            "artist": {
+                "id": "5080",
+                "name": "Various Artists",
+                "picture": "https://api.deezer.com/artist/5080/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395411",
+            "title": "Antologie (výběr)",
+            "link": "http://www.deezer.com/album/1395411",
+            "cover": "https://api.deezer.com/album/1395411/image",
+            "nb_tracks": 33,
+            "release_date": "2011-08-11",
+            "available": true,
+            "artist": {
+                "id": "374023",
+                "name": "Pavel Bobek",
+                "picture": "https://api.deezer.com/artist/374023/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395559",
+            "title": "Osvobozené divadlo I.",
+            "link": "http://www.deezer.com/album/1395559",
+            "cover": "https://api.deezer.com/album/1395559/image",
+            "nb_tracks": 25,
+            "release_date": "2011-09-14",
+            "available": true,
+            "artist": {
+                "id": "1538135",
+                "name": "V+W",
+                "picture": "https://api.deezer.com/artist/1538135/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395567",
+            "title": "Povídky Šimka a Grossmanna 1",
+            "link": "http://www.deezer.com/album/1395567",
+            "cover": "https://api.deezer.com/album/1395567/image",
+            "nb_tracks": 8,
+            "release_date": "2011-09-16",
+            "available": true,
+            "artist": {
+                "id": "1538171",
+                "name": "Miloslav Šimek",
+                "picture": "https://api.deezer.com/artist/1538171/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395569",
+            "title": "Povídky Šimka a Grossmanna 4",
+            "link": "http://www.deezer.com/album/1395569",
+            "cover": "https://api.deezer.com/album/1395569/image",
+            "nb_tracks": 8,
+            "release_date": "2011-09-16",
+            "available": true,
+            "artist": {
+                "id": "1538171",
+                "name": "Miloslav Šimek",
+                "picture": "https://api.deezer.com/artist/1538171/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395581",
+            "title": "Císařův Hurvínek a Hurvínkův císař",
+            "link": "http://www.deezer.com/album/1395581",
+            "cover": "https://api.deezer.com/album/1395581/image",
+            "nb_tracks": 9,
+            "release_date": "2011-09-16",
+            "available": true,
+            "artist": {
+                "id": "1538163",
+                "name": "Divadlo S+H",
+                "picture": "https://api.deezer.com/artist/1538163/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395616",
+            "title": "Povídky Šimka a Grossmanna 3",
+            "link": "http://www.deezer.com/album/1395616",
+            "cover": "https://api.deezer.com/album/1395616/image",
+            "nb_tracks": 9,
+            "release_date": "2011-09-16",
+            "available": true,
+            "artist": {
+                "id": "1538171",
+                "name": "Miloslav Šimek",
+                "picture": "https://api.deezer.com/artist/1538171/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395642",
+            "title": "To byli pánové Šimek a Grossmann",
+            "link": "http://www.deezer.com/album/1395642",
+            "cover": "https://api.deezer.com/album/1395642/image",
+            "nb_tracks": 15,
+            "release_date": "2011-09-14",
+            "available": true,
+            "artist": {
+                "id": "1538397",
+                "name": "Jiří Grossmann, Miloslav Šimek",
+                "picture": "https://api.deezer.com/artist/1538397/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395653",
+            "title": "Petiška: Řecké báje a pověsti I.-III.",
+            "link": "http://www.deezer.com/album/1395653",
+            "cover": "https://api.deezer.com/album/1395653/image",
+            "nb_tracks": 24,
+            "release_date": "2011-09-16",
+            "available": true,
+            "artist": {
+                "id": "1538411",
+                "name": "Petr Pelzer, František Němec, Taťjana Medvecká",
+                "picture": "https://api.deezer.com/artist/1538411/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395666",
+            "title": "Šimek, Krampol: Povídky",
+            "link": "http://www.deezer.com/album/1395666",
+            "cover": "https://api.deezer.com/album/1395666/image",
+            "nb_tracks": 6,
+            "release_date": "2011-09-15",
+            "available": true,
+            "artist": {
+                "id": "1538434",
+                "name": "Uršula Kluková, Jiří Krampol",
+                "picture": "https://api.deezer.com/artist/1538434/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395674",
+            "title": "Pavel: Smrt krásných srnců",
+            "link": "http://www.deezer.com/album/1395674",
+            "cover": "https://api.deezer.com/album/1395674/image",
+            "nb_tracks": 7,
+            "release_date": "2011-09-15",
+            "available": true,
+            "artist": {
+                "id": "1538459",
+                "name": "Miroslav Horníček, Karel Heřmánek",
+                "picture": "https://api.deezer.com/artist/1538459/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395675",
+            "title": "Pohádky bratří Grimmů /s písničkami bratří Ebenů/",
+            "link": "http://www.deezer.com/album/1395675",
+            "cover": "https://api.deezer.com/album/1395675/image",
+            "nb_tracks": 24,
+            "release_date": "2011-09-15",
+            "available": true,
+            "artist": {
+                "id": "980704",
+                "name": "Marek Eben",
+                "picture": "https://api.deezer.com/artist/980704/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395687",
+            "title": "Nepil: Štuclinka a Zachumlánek",
+            "link": "http://www.deezer.com/album/1395687",
+            "cover": "https://api.deezer.com/album/1395687/image",
+            "nb_tracks": 16,
+            "release_date": "2011-09-15",
+            "available": true,
+            "artist": {
+                "id": "1538470",
+                "name": "Rudolf Hrušínský",
+                "picture": "https://api.deezer.com/artist/1538470/image"
+            },
+            "type": "album"
+        },
+        {
+            "id": "1395692",
+            "title": "Hrabal: Ostře sledované vlaky Audiokniha",
+            "link": "http://www.deezer.com/album/1395692",
+            "cover": "https://api.deezer.com/album/1395692/image",
+            "nb_tracks": 7,
+            "release_date": "2011-09-15",
+            "available": true,
+            "artist": {
+                "id": "1538476",
+                "name": "Kryštof Hádek",
+                "picture": "https://api.deezer.com/artist/1538476/image"
+            },
+            "type": "album"
+        }
+    ],
+    "checksum": "ea1db82545fe0004ae44f46a8ae87827",
+    "total": 142,
+    "next": "https://api.deezer.com/user/23114741/albums?index=50"
+}

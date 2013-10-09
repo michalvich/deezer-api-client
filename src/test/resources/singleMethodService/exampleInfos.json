@@ -1,0 +1,27 @@
+{
+    "country_iso": "CZ",
+    "country": "Czech Republic",
+    "open": true,
+    "pop": "fr",
+    "upload_token": "5aa8175b98b7c3f7dcd7c59e33351823",
+    "offers": [
+        {
+            "id": 1,
+            "name": "Deezer Premium+",
+            "amount": "6.99",
+            "currency": "EUR",
+            "displayed_amount": "6,99 €",
+            "tc": "https://cdns-files.deezer.com/pdf/CGV-ww.pdf",
+            "try_and_buy": "15"
+        },
+        {
+            "id": 2,
+            "name": "Deezer Premium",
+            "amount": "3.49",
+            "currency": "EUR",
+            "displayed_amount": "3,49 €",
+            "tc": "https://cdns-files.deezer.com/pdf/CGV-ww.pdf",
+            "try_and_buy": "15"
+        }
+    ]
+}

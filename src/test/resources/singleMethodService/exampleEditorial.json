@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "572",
+            "name": "Pop",
+            "type": "editorial"
+        },
+        {
+            "id": "573",
+            "name": "Indie/Alternative",
+            "type": "editorial"
+        },
+        {
+            "id": "574",
+            "name": "Rock",
+            "type": "editorial"
+        },
+        {
+            "id": "575",
+            "name": "Dance/Electro",
+            "type": "editorial"
+        },
+        {
+            "id": "576",
+            "name": "R&B/Soul",
+            "type": "editorial"
+        },
+        {
+            "id": "578",
+            "name": "Hip Hop",
+            "type": "editorial"
+        },
+        {
+            "id": "579",
+            "name": "Metal/Hard rock",
+            "type": "editorial"
+        },
+        {
+            "id": "582",
+            "name": "Jazz/Blues",
+            "type": "editorial"
+        }
+    ]
+}

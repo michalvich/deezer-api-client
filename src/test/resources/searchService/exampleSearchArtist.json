@@ -1,0 +1,195 @@
+{
+    "data": [
+        {
+            "id": "13",
+            "name": "Eminem",
+            "link": "http://www.deezer.com/artist/13",
+            "picture": "https://api.deezer.com/artist/13/image",
+            "nb_album": 125,
+            "nb_fan": 2808343,
+            "radio": true,
+            "type": "artist"
+        },
+        {
+            "id": "114452",
+            "name": "Various Artists - Eminem Tribute",
+            "link": "http://www.deezer.com/artist/114452",
+            "picture": "https://api.deezer.com/artist/114452/image",
+            "nb_album": 2,
+            "nb_fan": 417,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "1651851",
+            "name": "Eminem / 50 Cent",
+            "link": "http://www.deezer.com/artist/1651851",
+            "picture": "https://api.deezer.com/artist/1651851/image",
+            "nb_album": 0,
+            "nb_fan": 384,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4210461",
+            "name": "Eminem ft. - Dr. Dre Tribute Band, Made famous by Eminen feat Dr. Dre Tribute Band",
+            "link": "http://www.deezer.com/artist/4210461",
+            "picture": "https://api.deezer.com/artist/4210461/image",
+            "nb_album": 0,
+            "nb_fan": 648,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4508839",
+            "name": "Nate Dogg, Eminem",
+            "link": "http://www.deezer.com/artist/4508839",
+            "picture": "https://api.deezer.com/artist/4508839/image",
+            "nb_album": 0,
+            "nb_fan": 80,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "1651852",
+            "name": "Eminem / 50 Cent / Cashis / Lloyd Banks",
+            "link": "http://www.deezer.com/artist/1651852",
+            "picture": "https://api.deezer.com/artist/1651852/image",
+            "nb_album": 0,
+            "nb_fan": 309,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4288978",
+            "name": "Eminem, Royce 5-9, Bad Meets Evil",
+            "link": "http://www.deezer.com/artist/4288978",
+            "picture": "https://api.deezer.com/artist/4288978/image",
+            "nb_album": 0,
+            "nb_fan": 109,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4863768",
+            "name": "Eminem featuring Nate Dogg",
+            "link": "http://www.deezer.com/artist/4863768",
+            "picture": "https://api.deezer.com/artist/4863768/image",
+            "nb_album": 0,
+            "nb_fan": 26,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "1275970",
+            "name": "Eminem Featuring P!nk",
+            "link": "http://www.deezer.com/artist/1275970",
+            "picture": "https://api.deezer.com/artist/1275970/image",
+            "nb_album": 0,
+            "nb_fan": 245,
+            "radio": true,
+            "type": "artist"
+        },
+        {
+            "id": "1688907",
+            "name": "Obie Trice feat. Eminem",
+            "link": "http://www.deezer.com/artist/1688907",
+            "picture": "https://api.deezer.com/artist/1688907/image",
+            "nb_album": 0,
+            "nb_fan": 36,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "1519704",
+            "name": "Drake / Kanye West / Lil Wayne / Eminem",
+            "link": "http://www.deezer.com/artist/1519704",
+            "picture": "https://api.deezer.com/artist/1519704/image",
+            "nb_album": 1,
+            "nb_fan": 740,
+            "radio": true,
+            "type": "artist"
+        },
+        {
+            "id": "1651849",
+            "name": "Eminem / Obie Trice / Stat Quo / Bobby Creekwater / Cashis",
+            "link": "http://www.deezer.com/artist/1651849",
+            "picture": "https://api.deezer.com/artist/1651849/image",
+            "nb_album": 0,
+            "nb_fan": 37,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4068337",
+            "name": "Eminem & Masta Ice",
+            "link": "http://www.deezer.com/artist/4068337",
+            "picture": "https://api.deezer.com/artist/4068337/image",
+            "nb_album": 0,
+            "nb_fan": 27,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "194079",
+            "name": "Obie Trice, 50 Cent, Eminem",
+            "link": "http://www.deezer.com/artist/194079",
+            "picture": "https://api.deezer.com/artist/194079/image",
+            "nb_album": 0,
+            "nb_fan": 42,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "1651855",
+            "name": "Nate Dogg / Eminem / Obie Trice / Bobby Creekwater",
+            "link": "http://www.deezer.com/artist/1651855",
+            "picture": "https://api.deezer.com/artist/1651855/image",
+            "nb_album": 0,
+            "nb_fan": 51,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4153898",
+            "name": "Eminem, Royce da 5'9\"",
+            "link": "http://www.deezer.com/artist/4153898",
+            "picture": "https://api.deezer.com/artist/4153898/image",
+            "nb_album": 0,
+            "nb_fan": 36,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "167760",
+            "name": "Missy Elliott / Eminem",
+            "link": "http://www.deezer.com/artist/167760",
+            "picture": "https://api.deezer.com/artist/167760/image",
+            "nb_album": 0,
+            "nb_fan": 141,
+            "radio": true,
+            "type": "artist"
+        },
+        {
+            "id": "1663671",
+            "name": "Dirty Money Music Group featuring Eminem",
+            "link": "http://www.deezer.com/artist/1663671",
+            "picture": "https://api.deezer.com/artist/1663671/image",
+            "nb_album": 0,
+            "nb_fan": 11,
+            "radio": false,
+            "type": "artist"
+        },
+        {
+            "id": "4500576",
+            "name": "Bad Meets Evil, Eminem",
+            "link": "http://www.deezer.com/artist/4500576",
+            "picture": "https://api.deezer.com/artist/4500576/image",
+            "nb_album": 0,
+            "nb_fan": 16,
+            "radio": false,
+            "type": "artist"
+        }
+    ],
+    "total": 19
+}

@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "572",
+            "name": "Pop",
+            "type": "genre"
+        },
+        {
+            "id": "573",
+            "name": "Indie/Alternative",
+            "type": "genre"
+        },
+        {
+            "id": "574",
+            "name": "Rock",
+            "type": "genre"
+        },
+        {
+            "id": "575",
+            "name": "Dance/Electro",
+            "type": "genre"
+        },
+        {
+            "id": "576",
+            "name": "R&B/Soul",
+            "type": "genre"
+        },
+        {
+            "id": "578",
+            "name": "Hip Hop",
+            "type": "genre"
+        },
+        {
+            "id": "579",
+            "name": "Metal/Hard rock",
+            "type": "genre"
+        },
+        {
+            "id": "582",
+            "name": "Jazz/Blues",
+            "type": "genre"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "id": "1221",
+            "title": "Pop",
+            "picture": "https://api.deezer.com/radio/1221/image",
+            "type": "radio"
+        },
+        {
+            "id": "1236",
+            "title": "Dancefloor",
+            "picture": "https://api.deezer.com/radio/1236/image",
+            "type": "radio"
+        },
+        {
+            "id": "1234",
+            "title": "Alternative",
+            "picture": "https://api.deezer.com/radio/1234/image",
+            "type": "radio"
+        },
+        {
+            "id": "473",
+            "title": "R&B",
+            "picture": "https://api.deezer.com/radio/473/image",
+            "type": "radio"
+        },
+        {
+            "id": "1237",
+            "title": "Electronic",
+            "picture": "https://api.deezer.com/radio/1237/image",
+            "type": "radio"
+        }
+    ]
+}

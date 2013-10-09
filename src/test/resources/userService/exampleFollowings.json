@@ -1,0 +1,307 @@
+{
+    "data": [
+        {
+            "id": "5",
+            "name": "Daniel Marhely",
+            "picture": "https://api.deezer.com/user/5/image",
+            "type": "user"
+        },
+        {
+            "id": "8",
+            "name": "sing2gather",
+            "picture": "https://api.deezer.com/user/8/image",
+            "type": "user"
+        },
+        {
+            "id": "13",
+            "name": "Jeremie",
+            "picture": "https://api.deezer.com/user/13/image",
+            "type": "user"
+        },
+        {
+            "id": "39",
+            "name": "léa",
+            "picture": "https://api.deezer.com/user/39/image",
+            "type": "user"
+        },
+        {
+            "id": "42",
+            "name": "joachim_deezer",
+            "picture": "https://api.deezer.com/user/42/image",
+            "type": "user"
+        },
+        {
+            "id": "3392",
+            "name": "b3nji0",
+            "picture": "https://api.deezer.com/user/3392/image",
+            "type": "user"
+        },
+        {
+            "id": "4194",
+            "name": "cecile4587",
+            "picture": "https://api.deezer.com/user/4194/image",
+            "type": "user"
+        },
+        {
+            "id": "5474",
+            "name": "dam4ever",
+            "picture": "https://api.deezer.com/user/5474/image",
+            "type": "user"
+        },
+        {
+            "id": "6438",
+            "name": "au_m",
+            "picture": "https://api.deezer.com/user/6438/image",
+            "type": "user"
+        },
+        {
+            "id": "7056",
+            "name": "josh83abc",
+            "picture": "https://api.deezer.com/user/7056/image",
+            "type": "user"
+        },
+        {
+            "id": "56977",
+            "name": "leaquenet",
+            "picture": "https://api.deezer.com/user/56977/image",
+            "type": "user"
+        },
+        {
+            "id": "89644",
+            "name": "mathomate",
+            "picture": "https://api.deezer.com/user/89644/image",
+            "type": "user"
+        },
+        {
+            "id": "157985",
+            "name": "yxcs",
+            "picture": "https://api.deezer.com/user/157985/image",
+            "type": "user"
+        },
+        {
+            "id": "158316",
+            "name": "doky",
+            "picture": "https://api.deezer.com/user/158316/image",
+            "type": "user"
+        },
+        {
+            "id": "166000",
+            "name": "jabxrace",
+            "picture": "https://api.deezer.com/user/166000/image",
+            "type": "user"
+        },
+        {
+            "id": "166579",
+            "name": "perceval",
+            "picture": "https://api.deezer.com/user/166579/image",
+            "type": "user"
+        },
+        {
+            "id": "184372",
+            "name": "Baptiste Bouillot",
+            "picture": "https://api.deezer.com/user/184372/image",
+            "type": "user"
+        },
+        {
+            "id": "188796",
+            "name": "betabyte08",
+            "picture": "https://api.deezer.com/user/188796/image",
+            "type": "user"
+        },
+        {
+            "id": "193415",
+            "name": "nekoko",
+            "picture": "https://api.deezer.com/user/193415/image",
+            "type": "user"
+        },
+        {
+            "id": "196066",
+            "name": "gnarco",
+            "picture": "https://api.deezer.com/user/196066/image",
+            "type": "user"
+        },
+        {
+            "id": "196306",
+            "name": "rachel8888",
+            "picture": "https://api.deezer.com/user/196306/image",
+            "type": "user"
+        },
+        {
+            "id": "228899",
+            "name": "dulce_paulitta",
+            "picture": "https://api.deezer.com/user/228899/image",
+            "type": "user"
+        },
+        {
+            "id": "243096",
+            "name": "lostlounge",
+            "picture": "https://api.deezer.com/user/243096/image",
+            "type": "user"
+        },
+        {
+            "id": "257336",
+            "name": "bentournand",
+            "picture": "https://api.deezer.com/user/257336/image",
+            "type": "user"
+        },
+        {
+            "id": "266369",
+            "name": "Touched",
+            "picture": "https://api.deezer.com/user/266369/image",
+            "type": "user"
+        },
+        {
+            "id": "283214",
+            "name": "slainer68",
+            "picture": "https://api.deezer.com/user/283214/image",
+            "type": "user"
+        },
+        {
+            "id": "284768",
+            "name": "Simon DUHEM",
+            "picture": "https://api.deezer.com/user/284768/image",
+            "type": "user"
+        },
+        {
+            "id": "285554",
+            "name": "fissosam",
+            "picture": "https://api.deezer.com/user/285554/image",
+            "type": "user"
+        },
+        {
+            "id": "291335",
+            "name": "florian13",
+            "picture": "https://api.deezer.com/user/291335/image",
+            "type": "user"
+        },
+        {
+            "id": "298029",
+            "name": "gosse",
+            "picture": "https://api.deezer.com/user/298029/image",
+            "type": "user"
+        },
+        {
+            "id": "354265",
+            "name": "sylvainw",
+            "picture": "https://api.deezer.com/user/354265/image",
+            "type": "user"
+        },
+        {
+            "id": "359356",
+            "name": "moonpattes",
+            "picture": "https://api.deezer.com/user/359356/image",
+            "type": "user"
+        },
+        {
+            "id": "374315",
+            "name": "Damien Pichon",
+            "picture": "https://api.deezer.com/user/374315/image",
+            "type": "user"
+        },
+        {
+            "id": "438646",
+            "name": "kisscool44",
+            "picture": "https://api.deezer.com/user/438646/image",
+            "type": "user"
+        },
+        {
+            "id": "442779",
+            "name": "nanolic",
+            "picture": "https://api.deezer.com/user/442779/image",
+            "type": "user"
+        },
+        {
+            "id": "449687",
+            "name": "lucki26",
+            "picture": "https://api.deezer.com/user/449687/image",
+            "type": "user"
+        },
+        {
+            "id": "457608",
+            "name": "psykorange",
+            "picture": "https://api.deezer.com/user/457608/image",
+            "type": "user"
+        },
+        {
+            "id": "483328",
+            "name": "yamal75",
+            "picture": "https://api.deezer.com/user/483328/image",
+            "type": "user"
+        },
+        {
+            "id": "505233",
+            "name": "emi34",
+            "picture": "https://api.deezer.com/user/505233/image",
+            "type": "user"
+        },
+        {
+            "id": "508801",
+            "name": "st5c20an1",
+            "picture": "https://api.deezer.com/user/508801/image",
+            "type": "user"
+        },
+        {
+            "id": "540872",
+            "name": "lilyandco",
+            "picture": "https://api.deezer.com/user/540872/image",
+            "type": "user"
+        },
+        {
+            "id": "548172",
+            "name": "johnbgood016",
+            "picture": "https://api.deezer.com/user/548172/image",
+            "type": "user"
+        },
+        {
+            "id": "588767",
+            "name": "yannard",
+            "picture": "https://api.deezer.com/user/588767/image",
+            "type": "user"
+        },
+        {
+            "id": "613316",
+            "name": "f-ny",
+            "picture": "https://api.deezer.com/user/613316/image",
+            "type": "user"
+        },
+        {
+            "id": "626871",
+            "name": "winland",
+            "picture": "https://api.deezer.com/user/626871/image",
+            "type": "user"
+        },
+        {
+            "id": "637423",
+            "name": "dns78",
+            "picture": "https://api.deezer.com/user/637423/image",
+            "type": "user"
+        },
+        {
+            "id": "689863",
+            "name": "Sam HS",
+            "picture": "https://api.deezer.com/user/689863/image",
+            "type": "user"
+        },
+        {
+            "id": "701565",
+            "name": "flo753",
+            "picture": "https://api.deezer.com/user/701565/image",
+            "type": "user"
+        },
+        {
+            "id": "709159",
+            "name": "sweetpie242",
+            "picture": "https://api.deezer.com/user/709159/image",
+            "type": "user"
+        },
+        {
+            "id": "759068",
+            "name": "sochicxxx",
+            "picture": "https://api.deezer.com/user/759068/image",
+            "type": "user"
+        }
+    ],
+    "checksum": "bf41cdf1070af2e1b2b5f28c2e1ad6e9",
+    "total": 575,
+    "next": "https://api.deezer.com/user/2529/followings?index=50"
+}

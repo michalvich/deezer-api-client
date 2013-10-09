@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "id": "567",
+            "title": "Les couleurs d'inter",
+            "picture": "https://api.deezer.com/radio/567/image",
+            "type": "radio"
+        }
+    ],
+    "checksum": "ac807153e6976c9fb0f529522beb9fed",
+    "total": 1
+}

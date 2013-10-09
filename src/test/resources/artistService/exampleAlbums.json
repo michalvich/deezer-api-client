@@ -1,0 +1,194 @@
+{
+    "data": [
+        {
+            "id": "6575789",
+            "title": "Random Access Memories (2013)",
+            "cover": "https://api.deezer.com/album/6575789/image",
+            "genre_id": 572,
+            "type": "album"
+        },
+        {
+            "id": "936927",
+            "title": "TRON Legacy: Reconfigured (2011)",
+            "cover": "https://api.deezer.com/album/936927/image",
+            "genre_id": 585,
+            "type": "album"
+        },
+        {
+            "id": "711284",
+            "title": "TRON: Legacy (2010)",
+            "cover": "https://api.deezer.com/album/711284/image",
+            "genre_id": 585,
+            "type": "album"
+        },
+        {
+            "id": "304193",
+            "title": "Alive 2007 (2007)",
+            "cover": "https://api.deezer.com/album/304193/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "1343199",
+            "title": "Musique Vol 1 (2006)",
+            "cover": "https://api.deezer.com/album/1343199/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "303459",
+            "title": "Human After All (2005)",
+            "cover": "https://api.deezer.com/album/303459/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "299205",
+            "title": "Daft Club (2003)",
+            "cover": "https://api.deezer.com/album/299205/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "302127",
+            "title": "Discovery (2001)",
+            "cover": "https://api.deezer.com/album/302127/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "301775",
+            "title": "Homework (1997)",
+            "cover": "https://api.deezer.com/album/301775/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "325471",
+            "title": "Robot Rock (2005)",
+            "cover": "https://api.deezer.com/album/325471/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "299734",
+            "title": "Something About US (Love Theme From Interstella) (2003)",
+            "cover": "https://api.deezer.com/album/299734/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "302378",
+            "title": "Harder Better Faster Stronger (2001)",
+            "cover": "https://api.deezer.com/album/302378/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "325477",
+            "title": "Revolution 909 (1998)",
+            "cover": "https://api.deezer.com/album/325477/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "325476",
+            "title": "Burnin' (1997)",
+            "cover": "https://api.deezer.com/album/325476/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "302364",
+            "title": "Around The World (1997)",
+            "cover": "https://api.deezer.com/album/302364/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "6703346",
+            "title": "Get Lucky (2013)",
+            "cover": "https://api.deezer.com/album/6703346/image",
+            "genre_id": 572,
+            "type": "album"
+        },
+        {
+            "id": "6703310",
+            "title": "Get Lucky (Daft Punk Remix) (2013)",
+            "cover": "https://api.deezer.com/album/6703310/image",
+            "genre_id": 572,
+            "type": "album"
+        },
+        {
+            "id": "325490",
+            "title": "Harder Better Faster Stronger (2007)",
+            "cover": "https://api.deezer.com/album/325490/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "1343261",
+            "title": "Prime Time Of Your Life (2006)",
+            "cover": "https://api.deezer.com/album/1343261/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "3492561",
+            "title": "Human After All (Medley) (2005)",
+            "cover": "https://api.deezer.com/album/3492561/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "325470",
+            "title": "Robot Rock (2005)",
+            "cover": "https://api.deezer.com/album/325470/image",
+            "genre_id": 572,
+            "type": "album"
+        },
+        {
+            "id": "325425",
+            "title": "Human After All (2005)",
+            "cover": "https://api.deezer.com/album/325425/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "303197",
+            "title": "Technologic (2005)",
+            "cover": "https://api.deezer.com/album/303197/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "325478",
+            "title": "Digital Love (2001)",
+            "cover": "https://api.deezer.com/album/325478/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "303599",
+            "title": "Aerodynamic (2001)",
+            "cover": "https://api.deezer.com/album/303599/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "303598",
+            "title": "One More Time (2000)",
+            "cover": "https://api.deezer.com/album/303598/image",
+            "genre_id": 575,
+            "type": "album"
+        },
+        {
+            "id": "325475",
+            "title": "DA FUNK (1997)",
+            "cover": "https://api.deezer.com/album/325475/image",
+            "genre_id": 575,
+            "type": "album"
+        }
+    ],
+    "total": 27
+}
