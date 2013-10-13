@@ -1,7 +1,8 @@
 deezer-api-client
 =================
 
-Java wrapper for deezer api - http://developers.deezer.com/api/
+Java wrapper for deezer api - http://developers.deezer.com/api/ supports
+all GET methods which don't need OAuth authentication
 
 ```java
 

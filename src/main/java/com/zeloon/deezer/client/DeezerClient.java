@@ -21,6 +21,9 @@ import com.zeloon.deezer.domain.internal.search.*;
 import com.zeloon.deezer.io.ResourceConnection;
 import com.zeloon.deezer.service.DeezerRestTemplate;
 
+import java.io.UnsupportedEncodingException;
+import java.net.URLEncoder;
+
 public class DeezerClient {
 
     public static final String PREFIX_ALBUM = "album";
@@ -185,7 +188,11 @@ public class DeezerClient {
     private String getSearchQuery(final Search search) {
         StringBuilder queryBuilder = new StringBuilder();
         queryBuilder.append("q=");
-        queryBuilder.append(search.getText());
+        try {
+            queryBuilder.append(URLEncoder.encode(search.getText(), "utf-8"));
+        } catch (UnsupportedEncodingException e) {
+            e.printStackTrace();
+        }
         if (search.getSearchOrder() != null) {
             queryBuilder.append("&order=");
             queryBuilder.append(search.getSearchOrder());
