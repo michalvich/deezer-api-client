@@ -25,6 +25,7 @@ public class Artist {
     private Long nb_fan;
     private Boolean radio;
     private String type;
+    private String tracklist;
 
     public Long getId() {
         return id;
@@ -88,5 +89,13 @@ public class Artist {
 
     public void setType(String type) {
         this.type = type;
+    }
+
+    public String getTracklist() {
+        return tracklist;
+    }
+
+    public void setTracklist(String tracklist) {
+        this.tracklist = tracklist;
     }
 }

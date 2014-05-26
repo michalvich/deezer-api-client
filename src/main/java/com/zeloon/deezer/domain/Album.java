@@ -37,6 +37,9 @@ public class Album {
     private String genre;
     private Integer nb_tracks;
     private Album alternative;
+    private Genres genres;
+    private String record_type;
+    private String tracklist;
 
     public Long getId() {
         return id;
@@ -196,5 +199,29 @@ public class Album {
 
     public void setAlternative(Album alternative) {
         this.alternative = alternative;
+    }
+
+    public Genres getGenres() {
+        return genres;
+    }
+
+    public void setGenres(Genres genres) {
+        this.genres = genres;
+    }
+
+    public String getRecord_type() {
+        return record_type;
+    }
+
+    public void setRecord_type(String record_type) {
+        this.record_type = record_type;
+    }
+
+    public String getTracklist() {
+        return tracklist;
+    }
+
+    public void setTracklist(String tracklist) {
+        this.tracklist = tracklist;
     }
 }

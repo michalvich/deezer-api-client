@@ -48,6 +48,12 @@ public class DeezerClientTest {
         assertNotNull(album);
         assertEquals(albumId.getId(), album.getId());
         assertEquals("Discovery", album.getTitle());
+        assertEquals("https://api.deezer.com/album/302127/tracks", album.getTracklist());
+        assertEquals(1, album.getGenres().getData().size());
+        final Genre firstGenre = album.getGenres().getData().get(0);
+        assertEquals(Long.valueOf(113), firstGenre.getId());
+        assertEquals("Taneční hudba", firstGenre.getName());
+        assertEquals("genre", firstGenre.getType());
     }
 
     @Test
