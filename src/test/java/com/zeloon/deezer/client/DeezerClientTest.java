@@ -141,6 +141,7 @@ public class DeezerClientTest {
         Track track = deezerClient.get(new TrackId(3135556L));
         assertEquals(3135556L, track.getId().longValue());
         assertEquals("Harder Better Faster Stronger", track.getTitle());
+        assertNotNull(track.getAvailable_countries());
     }
 
     @Test

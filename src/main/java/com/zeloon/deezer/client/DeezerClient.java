@@ -30,6 +30,7 @@ public class DeezerClient {
     public static final String PREFIX_ARTIST = "artist";
     public static final String PREFIX_USER = "user";
     public static final String PREFIX_PLAYLIST = "playlist";
+    public static final String PREFIX_TRACK = "track";
 
     private DeezerRestTemplate baseService;
 
@@ -98,7 +99,7 @@ public class DeezerClient {
     }
 
     public Track get(final TrackId trackId) {
-        return baseService.get("track", trackId.getId(), Track.class);
+        return baseService.get(PREFIX_TRACK, trackId.getId(), Track.class);
     }
 
     public Playlist get(final PlaylistId playlistId) {
