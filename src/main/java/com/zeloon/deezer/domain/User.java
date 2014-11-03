@@ -32,6 +32,7 @@ public class User {
     private String country;
     private String lang;
     private Integer status;
+    private String tracklist;
 
     public Long getId() {
         return id;
@@ -138,5 +139,13 @@ public class User {
     public void setType(String type) {
         this.type = type;
 
+    }
+
+    public String getTracklist() {
+        return tracklist;
+    }
+
+    public void setTracklist(String tracklist) {
+        this.tracklist = tracklist;
     }
 }
